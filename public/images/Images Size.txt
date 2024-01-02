@@ -1,0 +1,6 @@
+beach= 16:9
+me= 9:16
+
+All the resources images must be of 1:1
+All the projects images must be of 4:3
+
