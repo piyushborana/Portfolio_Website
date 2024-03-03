@@ -200,8 +200,12 @@ section {
   color: #ffb727;
   line-height: 0;
 }
-.about .content p:last-child {
-  margin-bottom: 0;
+.about p {
+  margin-top: 80px;
+}
+.about img {
+  margin-top: 20px;
+  height: 280px;
 }
 .about .content .count-box {
   width: 100%;
